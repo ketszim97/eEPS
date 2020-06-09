@@ -13,4 +13,5 @@ A PC/104 based power supply for a 1U cubesat. Provides:
 
 Allows 8 channels of independent current sense and load switching. The shared bus/header is specific to the Orbit Satellite design, but can be easily modified to fit other uses.
 
+![Fusion Render](https://github.com/ketszim97/eEPS/blob/master/Renders/Fusion%20Render%201.png)
 ![Front View](https://github.com/ketszim97/eEPS/blob/master/Renders/Altium%20Front%20View.png)
