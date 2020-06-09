@@ -1,0 +1,29 @@
+Added Component: Designator=C19(C0603-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "EIA Code"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7nF"; VariantName = "[No Variations]"
+Added Component: Designator=J3(HDR2X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R2512-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "60.4"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R2512-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "60.4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=CAN_H Pin=R8-2
+Added Pin To Net: NetName=CAN_L Pin=R9-1
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=J3-4
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-2
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_3 Pin=R9-2
+Added Net: Name=NetJ3_3
+Added Class: Name=JUMPERS

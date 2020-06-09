@@ -1,0 +1,24 @@
+Added Component: Designator=U7(TPS22810-Q1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U8(TPS22810-Q1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U9(TPS22810-Q1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U10(TPS22810-Q1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U11(TPS22810-Q1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U12(TPS22810-Q1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U13(TPS22810-Q1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U14(TPS22810-Q1)
+Add component. Clean all parameters for all variants
+Added Class: Name=12V_PCM
+Added Member To Class: ClassName=3V3_PCM Member=Component U7 One Channel Load Switch
+Added Member To Class: ClassName=3V3_PCM Member=Component U8 One Channel Load Switch
+Added Member To Class: ClassName=3V3_PCM Member=Component U9 One Channel Load Switch
+Added Member To Class: ClassName=3V3_PCM Member=Component U10 One Channel Load Switch
+Added Member To Class: ClassName=5V0_PCM Member=Component U11 One Channel Load Switch
+Added Member To Class: ClassName=5V0_PCM Member=Component U12 One Channel Load Switch
+Added Member To Class: ClassName=5V0_PCM Member=Component U13 One Channel Load Switch

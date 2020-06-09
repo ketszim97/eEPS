@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=PCMS.SchDoc
+Record=SheetSymbol|SourceDocument=PCMS.SchDoc|Designator=U_3V3_PCM|SchDesignator=U_3V3_PCM|FileName=3V3_PCM.SchDoc|SymbolType=Normal|RawFileName=3V3_PCM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PCMS.SchDoc|Designator=U_5V0_PCM|SchDesignator=U_5V0_PCM|FileName=5V0_PCM.SchDoc|SymbolType=Normal|RawFileName=5V0_PCM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PCMS.SchDoc|Designator=U_12V_PCM|SchDesignator=U_12V_PCM|FileName=12V_PCM.SchDoc|SymbolType=Normal|RawFileName=12V_PCM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=CONNECTORS.SchDoc|Designator=JUMPERS|SchDesignator=JUMPERS|FileName=JUMPERS.SchDoc|SymbolType=Normal|RawFileName=JUMPERS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=CONNECTORS.SchDoc|Designator=SHARED_HEADER|SchDesignator=SHARED_HEADER|FileName=SHARED_HEADER.SchDoc|SymbolType=Normal|RawFileName=SHARED_HEADER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

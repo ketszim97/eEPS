@@ -1,0 +1,42 @@
+Change component parameters: Designator = "J1"; Footprint = "Aspectu_Header_1"; UniqueID = "\GSKAICRD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "OrbitPartId"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Subtype"; Value = "Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2"; Footprint = "Aspectu_Header_2"; UniqueID = "\EQIMFSRK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "OrbitPartId"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Subtype"; Value = "Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=CAN_H Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=CAN_L Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=PAY_UART_RX Pin=J1-9
+Added Pin To Net: NetName=PAY_UART_TX Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-13
+Added Pin To Net: NetName=PAY_USB_D_N Pin=J1-15
+Added Pin To Net: NetName=PAY_USB_D_P Pin=J1-17
+Added Pin To Net: NetName=PAY_WDO Pin=J1-19
+Added Pin To Net: NetName=GND Pin=J1-20
+Added Pin To Net: NetName=GND Pin=J1-27
+Added Pin To Net: NetName=GND Pin=J1-36
+Added Pin To Net: NetName=EPS_I2C_SDA Pin=J1-41
+Added Pin To Net: NetName=EPS_I2C_SCL Pin=J1-43
+Added Pin To Net: NetName=GND Pin=J1-52
+Added Pin To Net: NetName=GND Pin=J2-9
+Added Pin To Net: NetName=GND Pin=J2-14
+Added Pin To Net: NetName=GND Pin=J2-17
+Added Pin To Net: NetName=GND Pin=J2-21
+Added Pin To Net: NetName=GND Pin=J2-22
+Added Pin To Net: NetName=GND Pin=J2-29
+Added Pin To Net: NetName=GND Pin=J2-30
+Added Pin To Net: NetName=GND Pin=J2-32
+Added Pin To Net: NetName=GND Pin=J2-47
+Added Pin To Net: NetName=GND Pin=J2-48
+Added Class: Name=SHARED_HEADER

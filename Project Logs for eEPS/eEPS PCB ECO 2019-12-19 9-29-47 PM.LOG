@@ -1,0 +1,199 @@
+Removed Pin From Net: NetName=3V3 Pin=R16-2
+Removed Pin From Net: NetName=3V3 Pin=R17-1
+Removed Pin From Net: NetName=3V3 Pin=R18-2
+Removed Pin From Net: NetName=3V3 Pin=R19-1
+Removed Pin From Net: NetName=5V0 Pin=R20-2
+Removed Pin From Net: NetName=12V0 Pin=R21-1
+Removed Pin From Net: NetName=5V0 Pin=R22-2
+Removed Pin From Net: NetName=5V0 Pin=R23-1
+Removed Pin From Net: NetName=3V3 Pin=U5-3
+Removed Pin From Net: NetName=3V3 Pin=U5-5
+Removed Pin From Net: NetName=3V3 Pin=U5-10
+Removed Pin From Net: NetName=3V3 Pin=U5-12
+Removed Pin From Net: NetName=5V0 Pin=U6-3
+Removed Pin From Net: NetName=5V0 Pin=U6-5
+Removed Pin From Net: NetName=5V0 Pin=U6-10
+Removed Pin From Net: NetName=12V0 Pin=U6-12
+Added Component: Designator=C37(C1206-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "12063D106KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/en/products/detail/avx-corporation/12063D106KAT2A/1950914"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EIA Code"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OrbitPartId"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subtype"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C38(C1206-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "12063D106KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/en/products/detail/avx-corporation/12063D106KAT2A/1950914"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EIA Code"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OrbitPartId"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subtype"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C39(C1206-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "12063D106KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/en/products/detail/avx-corporation/12063D106KAT2A/1950914"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EIA Code"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OrbitPartId"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subtype"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C40(C1206-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "12063D106KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/en/products/detail/avx-corporation/12063D106KAT2A/1950914"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EIA Code"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OrbitPartId"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subtype"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C41(C1206-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "12063D106KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/en/products/detail/avx-corporation/12063D106KAT2A/1950914"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EIA Code"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OrbitPartId"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subtype"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C42(C1206-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "12063D106KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/en/products/detail/avx-corporation/12063D106KAT2A/1950914"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EIA Code"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OrbitPartId"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subtype"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C43(C1206-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "12063D106KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/en/products/detail/avx-corporation/12063D106KAT2A/1950914"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EIA Code"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OrbitPartId"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subtype"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C44(C1206-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "12063D106KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/en/products/detail/avx-corporation/12063D106KAT2A/1950914"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EIA Code"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OrbitPartId"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subtype"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=U7(TPS22810-Q1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U8(TPS22810-Q1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U9(TPS22810-Q1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U10(TPS22810-Q1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U11(TPS22810-Q1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U12(TPS22810-Q1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U13(TPS22810-Q1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U14(TPS22810-Q1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=3V3 Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=3V3 Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=3V3 Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=3V3 Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=5V0 Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=5V0 Pin=C42-2
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=5V0 Pin=C43-2
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=12V0 Pin=C44-2
+Added Pin To Net: NetName=3V3 Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=3V3 Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=3V3 Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=3V3 Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=5V0 Pin=U11-1
+Added Pin To Net: NetName=GND Pin=U11-2
+Added Pin To Net: NetName=5V0 Pin=U12-1
+Added Pin To Net: NetName=GND Pin=U12-2
+Added Pin To Net: NetName=5V0 Pin=U13-1
+Added Pin To Net: NetName=GND Pin=U13-2
+Added Pin To Net: NetName=12V0 Pin=U14-1
+Added Pin To Net: NetName=GND Pin=U14-2
+Added Pin To Net: NetName=ACS_3V3_SW Pin=R18-2
+Added Pin To Net: NetName=ACS_3V3_SW Pin=U5-5
+Added Pin To Net: NetName=ACS_3V3_SW Pin=U10-6
+Added Net: Name=ACS_3V3_SW
+Added Pin To Net: NetName=ACS_5V0_SW Pin=R23-1
+Added Pin To Net: NetName=ACS_5V0_SW Pin=U6-10
+Added Pin To Net: NetName=ACS_5V0_SW Pin=U12-6
+Added Net: Name=ACS_5V0_SW
+Added Pin To Net: NetName=ACS_12V0_SW Pin=R21-1
+Added Pin To Net: NetName=ACS_12V0_SW Pin=U6-12
+Added Pin To Net: NetName=ACS_12V0_SW Pin=U14-6
+Added Net: Name=ACS_12V0_SW
+Added Pin To Net: NetName=CDH_3V3_SW Pin=R16-2
+Added Pin To Net: NetName=CDH_3V3_SW Pin=U5-3
+Added Pin To Net: NetName=CDH_3V3_SW Pin=U7-6
+Added Net: Name=CDH_3V3_SW
+Added Pin To Net: NetName=COM_3V3_SW Pin=R19-1
+Added Pin To Net: NetName=COM_3V3_SW Pin=U5-10
+Added Pin To Net: NetName=COM_3V3_SW Pin=U9-6
+Added Net: Name=COM_3V3_SW
+Added Pin To Net: NetName=COM_5V0_SW Pin=R22-2
+Added Pin To Net: NetName=COM_5V0_SW Pin=U6-5
+Added Pin To Net: NetName=COM_5V0_SW Pin=U13-6
+Added Net: Name=COM_5V0_SW
+Added Pin To Net: NetName=EPS_3V3_SW Pin=R17-1
+Added Pin To Net: NetName=EPS_3V3_SW Pin=U5-12
+Added Pin To Net: NetName=EPS_3V3_SW Pin=U8-6
+Added Net: Name=EPS_3V3_SW
+Added Pin To Net: NetName=PAY_5V0_SW Pin=R20-2
+Added Pin To Net: NetName=PAY_5V0_SW Pin=U6-3
+Added Pin To Net: NetName=PAY_5V0_SW Pin=U11-6
+Added Net: Name=PAY_5V0_SW
+Added Class: Name=12V_PCM
+Added Member To Class: ClassName=3V3_PCM Member=Component C37 Cin
+Added Member To Class: ClassName=3V3_PCM Member=Component C38 Cin
+Added Member To Class: ClassName=3V3_PCM Member=Component C39 Cin
+Added Member To Class: ClassName=3V3_PCM Member=Component C40 Cin
+Added Member To Class: ClassName=5V0_PCM Member=Component C41 Cin
+Added Member To Class: ClassName=5V0_PCM Member=Component C42 Cin
+Added Member To Class: ClassName=5V0_PCM Member=Component C43 Cin
+Added Member To Class: ClassName=3V3_PCM Member=Component U7 One Channel Load Switch
+Added Member To Class: ClassName=3V3_PCM Member=Component U8 One Channel Load Switch
+Added Member To Class: ClassName=3V3_PCM Member=Component U9 One Channel Load Switch
+Added Member To Class: ClassName=3V3_PCM Member=Component U10 One Channel Load Switch
+Added Member To Class: ClassName=5V0_PCM Member=Component U11 One Channel Load Switch
+Added Member To Class: ClassName=5V0_PCM Member=Component U12 One Channel Load Switch
+Added Member To Class: ClassName=5V0_PCM Member=Component U13 One Channel Load Switch

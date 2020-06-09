@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=VCC Pin=*-30
+Removed Pin From Net: NetName=VCC Pin=*-33
+Removed Pin From Net: NetName=VCC Pin=*-39
+Removed Pin From Net: NetName=VCC Pin=*-52
+Removed Pin From Net: NetName=VCC Pin=*-62
+Removed Pin From Net: NetName=VCC Pin=*-72
+Removed Pin From Net: NetName=VCC Pin=*-84
+Removed Pin From Net: NetName=VCC Pin=*-95
+Removed Pin From Net: NetName=VCC Pin=*-108
+Removed Pin From Net: NetName=VCC Pin=*-121
+Removed Pin From Net: NetName=VCC Pin=*-131
+Removed Pin From Net: NetName=VCC Pin=*-144
+Removed Pin From Net: NetName=VCC Pin=C2-1
+Removed Pin From Net: NetName=VCC Pin=C3-1
+Removed Pin From Net: NetName=VCC Pin=C4-1
+Removed Pin From Net: NetName=VCC Pin=C5-1
+Removed Pin From Net: NetName=VCC Pin=C6-1
+Removed Pin From Net: NetName=VCC Pin=C7-1
+Removed Pin From Net: NetName=VCC Pin=C8-1
+Removed Pin From Net: NetName=VCC Pin=C9-1
+Removed Pin From Net: NetName=VCC Pin=C10-1
+Removed Pin From Net: NetName=VCC Pin=C11-1
+Removed Pin From Net: NetName=VCC Pin=C12-1
+Removed Pin From Net: NetName=VCC Pin=C13-1
+Added Pin To Net: NetName=Net*_30 Pin=*-30
+Added Pin To Net: NetName=Net*_30 Pin=C2-1
+Added Net: Name=Net*_30
+Added Pin To Net: NetName=Net*_33 Pin=*-33
+Added Pin To Net: NetName=Net*_33 Pin=C12-1
+Added Net: Name=Net*_33
+Added Pin To Net: NetName=Net*_39 Pin=*-39
+Added Pin To Net: NetName=Net*_39 Pin=C3-1
+Added Net: Name=Net*_39
+Added Pin To Net: NetName=Net*_52 Pin=*-52
+Added Pin To Net: NetName=Net*_52 Pin=C4-1
+Added Net: Name=Net*_52
+Added Pin To Net: NetName=Net*_62 Pin=*-62
+Added Pin To Net: NetName=Net*_62 Pin=C5-1
+Added Net: Name=Net*_62
+Added Pin To Net: NetName=Net*_72 Pin=*-72
+Added Pin To Net: NetName=Net*_72 Pin=C6-1
+Added Net: Name=Net*_72
+Added Pin To Net: NetName=Net*_84 Pin=*-84
+Added Pin To Net: NetName=Net*_84 Pin=C7-1
+Added Net: Name=Net*_84
+Added Pin To Net: NetName=Net*_95 Pin=*-95
+Added Pin To Net: NetName=Net*_95 Pin=C13-1
+Added Net: Name=Net*_95
+Added Pin To Net: NetName=Net*_108 Pin=*-108
+Added Pin To Net: NetName=Net*_108 Pin=C8-1
+Added Net: Name=Net*_108
+Added Pin To Net: NetName=Net*_121 Pin=*-121
+Added Pin To Net: NetName=Net*_121 Pin=C9-1
+Added Net: Name=Net*_121
+Added Pin To Net: NetName=Net*_131 Pin=*-131
+Added Pin To Net: NetName=Net*_131 Pin=C10-1
+Added Net: Name=Net*_131
+Added Pin To Net: NetName=Net*_144 Pin=*-144
+Added Pin To Net: NetName=Net*_144 Pin=C11-1
+Added Net: Name=Net*_144

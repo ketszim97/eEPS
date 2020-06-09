@@ -1,0 +1,105 @@
+Change Component Designator: OldDesignator=* NewDesignator=U1
+Added Component: Designator=C17(C0603-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "EIA Code"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OrbitPartId"; Value = "13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subtype"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED0603-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-4966-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED0603-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-4966-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0603-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "OrbitPartId"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subtype"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0603-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "OrbitPartId"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subtype"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0603-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "OrbitPartId"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subtype"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "27"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0603-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "51"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0603-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "OrbitPartId"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subtype"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=S1(PTS810)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OrbitPartId"; Value = "39"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PTS810 SJM 250 SMTR LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subtype"; Value = "Tactile"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CKN10502CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=VCC Pin=D1-A
+Added Pin To Net: NetName=VCC Pin=D2-A
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=VCC Pin=U1-143
+Change Net Name : Old Net Name=Net*_71 New Net Name=NetC15_2
+Change Net Name : Old Net Name=Net*_106 New Net Name=NetC16_2
+Change Net Name : Old Net Name=VCC New Net Name=MCU_VCC
+Added Pin To Net: NetName=BOOT0 Pin=R5-2
+Added Pin To Net: NetName=BOOT0 Pin=U1-138
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=NetD1_K Pin=D1-K
+Added Pin To Net: NetName=NetD1_K Pin=R4-1
+Added Net: Name=NetD1_K
+Added Pin To Net: NetName=NetD2_K Pin=D2-K
+Added Pin To Net: NetName=NetD2_K Pin=R3-1
+Added Net: Name=NetD2_K
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-34
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-27
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-75
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NRST Pin=C17-1
+Added Pin To Net: NetName=NRST Pin=S1-1
+Added Pin To Net: NetName=NRST Pin=S1-1
+Added Pin To Net: NetName=NRST Pin=U1-25
+Added Net: Name=NRST
+Added Member To Class: ClassName=MCU Member=Component C17 Capacitor
+Added Member To Class: ClassName=MCU Member=Component D1 MCU_PWR_LED
+Added Member To Class: ClassName=MCU Member=Component D2 MCU_USER_LED
+Added Member To Class: ClassName=MCU Member=Component R1 Resistor
+Added Member To Class: ClassName=MCU Member=Component R2 Resistor
+Added Member To Class: ClassName=MCU Member=Component R3 Resistor
+Added Member To Class: ClassName=MCU Member=Component R4 0603 Template
+Added Member To Class: ClassName=MCU Member=Component R5 Resistor
+Added Member To Class: ClassName=MCU Member=Component S1 PTS810
+Added Member To Class: ClassName=MCU Member=Component U1 STM32H743ZIT

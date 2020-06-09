@@ -1,0 +1,54 @@
+Added Component: Designator=R?(R0603-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "OrbitPartId"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subtype"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603-IPC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "OrbitPartId"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subtype"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU_VCC Pin=R?-2
+Added Pin To Net: NetName=MCU_VCC Pin=R?-2
+Added Pin To Net: NetName=ADCS_GPIO_1 Pin=U1-80
+Added Net: Name=ADCS_GPIO_1
+Added Pin To Net: NetName=ADCS_GPIO_2 Pin=U1-81
+Added Net: Name=ADCS_GPIO_2
+Added Pin To Net: NetName=COMMS_IRQ_1 Pin=U1-85
+Added Net: Name=COMMS_IRQ_1
+Added Pin To Net: NetName=COMMS_IRQ_2 Pin=U1-86
+Added Net: Name=COMMS_IRQ_2
+Added Pin To Net: NetName=EPS_I2C_SCL Pin=R?-1
+Added Pin To Net: NetName=EPS_I2C_SCL Pin=U1-139
+Added Net: Name=EPS_I2C_SCL
+Added Pin To Net: NetName=EPS_I2C_SDA Pin=R?-1
+Added Pin To Net: NetName=EPS_I2C_SDA Pin=U1-140
+Added Net: Name=EPS_I2C_SDA
+Added Pin To Net: NetName=EXTRA_GPIO_1 Pin=U1-58
+Added Net: Name=EXTRA_GPIO_1
+Added Pin To Net: NetName=EXTRA_GPIO_2 Pin=U1-59
+Added Net: Name=EXTRA_GPIO_2
+Added Pin To Net: NetName=EXTRA_GPIO_3 Pin=U1-60
+Added Net: Name=EXTRA_GPIO_3
+Added Pin To Net: NetName=EXTRA_GPIO_4 Pin=U1-63
+Added Net: Name=EXTRA_GPIO_4
+Added Pin To Net: NetName=EXTRA_GPIO_5 Pin=U1-64
+Added Net: Name=EXTRA_GPIO_5
+Added Pin To Net: NetName=EXTRA_GPIO_6 Pin=U1-65
+Added Net: Name=EXTRA_GPIO_6
+Added Pin To Net: NetName=PAY_UART_RX Pin=U1-18
+Added Net: Name=PAY_UART_RX
+Added Pin To Net: NetName=PAY_UART_TX Pin=U1-19
+Added Net: Name=PAY_UART_TX
+Added Pin To Net: NetName=PAY_USB_D_N Pin=U1-103
+Added Net: Name=PAY_USB_D_N
+Added Pin To Net: NetName=PAY_USB_D_P Pin=U1-104
+Added Net: Name=PAY_USB_D_P
+Added Pin To Net: NetName=PAY_WDO Pin=U1-82
+Added Net: Name=PAY_WDO
+Added Member To Class: ClassName=MCU Member=Component R? Resistor
+Added Member To Class: ClassName=MCU Member=Component R? Resistor
